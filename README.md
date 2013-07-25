@@ -1,4 +1,4 @@
-Underscore.js-Javascript-List-comprehension
+generator.js
 ===========================================
 
 A list comprehension function for Underscore.js
